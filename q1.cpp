@@ -1,6 +1,6 @@
 #include <vector>
 
-std::vector<string> = {
+std::vector<char *> = {
   "aa",
   "ccc",
   "eeeee",
